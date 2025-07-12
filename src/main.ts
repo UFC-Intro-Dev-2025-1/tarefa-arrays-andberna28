@@ -24,7 +24,7 @@ function mostrarArray(array: number[]): void {
 
 }
 
-const adicionar = numeros.push(60, 70);
+numeros.push(60, 70);
 
 mostrarArray(numeros);
 
